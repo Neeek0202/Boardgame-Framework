@@ -1,0 +1,15 @@
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\obj\Debug\net6.0\BoardgameFramework FINAL.csproj.AssemblyReference.cache
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\obj\Debug\net6.0\BoardgameFramework FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\obj\Debug\net6.0\BoardgameFramework FINAL.AssemblyInfoInputs.cache
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\obj\Debug\net6.0\BoardgameFramework FINAL.AssemblyInfo.cs
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\obj\Debug\net6.0\BoardgameFramework FINAL.csproj.CoreCompileInputs.cache
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\bin\Debug\net6.0\BoardgameFramework FINAL.exe
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\bin\Debug\net6.0\BoardgameFramework FINAL.deps.json
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\bin\Debug\net6.0\BoardgameFramework FINAL.runtimeconfig.json
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\bin\Debug\net6.0\BoardgameFramework FINAL.dll
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\bin\Debug\net6.0\BoardgameFramework FINAL.pdb
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\obj\Debug\net6.0\BoardgameFramework FINAL.dll
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\obj\Debug\net6.0\refint\BoardgameFramework FINAL.dll
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\obj\Debug\net6.0\BoardgameFramework FINAL.pdb
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\obj\Debug\net6.0\BoardgameFramework FINAL.genruntimeconfig.cache
+C:\Users\nickh\OneDrive\文件\New Career\IFQ563 Object Oriented Design\BoardgameFramework FINAL\BoardgameFramework FINAL\BoardgameFramework FINAL\obj\Debug\net6.0\ref\BoardgameFramework FINAL.dll
